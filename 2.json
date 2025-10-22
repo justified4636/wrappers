@@ -1,0 +1,10 @@
+{
+  "name": "Parchment Signed Certificate",
+  "description": "Vintage parchment-style certificate for Blockchain 101 with yin-yang logos and signatures, graduation year 2025.",
+  "image": "https://peach-fast-clam-38.mypinata.cloud/ipfs/bafybeig744nalgufjt5cg6gkdkb55fqxcg2i267zlboqdprbjnatqux5km/2.jpg",
+  "attributes": [
+    {"trait_type": "Year", "value": "2025"},
+    {"trait_type": "Theme", "value": "Parchment Yin-Yang"},
+    {"trait_type": "Type", "value": "Signed Completion"}
+  ]
+}
