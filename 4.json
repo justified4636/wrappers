@@ -1,0 +1,11 @@
+{
+  "name": "Dereitibel Completion Certificate",
+  "description": "Personalized certificate of completion for Dereitibel in Blockchain 101, with DAO logo, issued in 2025.",
+  "image": "https://peach-fast-clam-38.mypinata.cloud/ipfs/bafybeig744nalgufjt5cg6gkdkb55fqxcg2i267zlboqdprbjnatqux5km/4.jpg",
+  "attributes": [
+    {"trait_type": "Year", "value": "2025"},
+    {"trait_type": "Theme", "value": "DAO Parchment"},
+    {"trait_type": "Type", "value": "Personalized"},
+    {"trait_type": "Recipient", "value": "Dereitibel"}
+  ]
+}
