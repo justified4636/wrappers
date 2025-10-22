@@ -1,0 +1,10 @@
+{
+  "name": "DAO Achievement Certificate Template",
+  "description": "A blank template certificate of achievement for Blockchain 101 with a golden DAO shield logo, dated 2025.",
+  "image": "https://peach-fast-clam-38.mypinata.cloud/ipfs/bafybeig744nalgufjt5cg6gkdkb55fqxcg2i267zlboqdprbjnatqux5km/0.jpg",
+  "attributes": [
+    {"trait_type": "Year", "value": "2025"},
+    {"trait_type": "Theme", "value": "DAO Shield"},
+    {"trait_type": "Type", "value": "Template"}
+  ]
+}
