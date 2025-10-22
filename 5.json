@@ -1,0 +1,10 @@
+{
+  "name": "Yin-Yang Completion Certificate",
+  "description": "A cosmic yin-yang (8-ball inspired) certificate of completion for Blockchain 101, graduation year 2025.",
+  "image": "https://peach-fast-clam-38.mypinata.cloud/ipfs/bafybeig744nalgufjt5cg6gkdkb55fqxcg2i267zlboqdprbjnatqux5km/5.jpg",
+  "attributes": [
+    {"trait_type": "Year", "value": "2025"},
+    {"trait_type": "Theme", "value": "Yin-Yang"},
+    {"trait_type": "Type", "value": "Completion"}
+  ]
+}
